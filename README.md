@@ -7,13 +7,7 @@
 - ☕ Is live ❤️
 - 🏢 AGSI Sistemas
 
-<!--GitHub Stats-->
-<h1 align="center">GITHUB STATS</h1>
-<div align="center">
-  <a href="https://github.com/GustavoCarisRezende">
-  <img height="180em" bg_color="#000000" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCarisRezende&show_icons=true&theme=transparent)"/>
- 
-<!--ÍCONES DAS LINGUAGENS-->
+<!--ÍCONES DAS TECNOLOGIAS-->
   <br>
   <h1 align="center">TECHNOLOGIES</h1>
   <div align="center">
@@ -32,7 +26,3 @@
 
 <hr>
  
-<!--Snake Gif-->
-<div align="center">
-  <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
-</div>
