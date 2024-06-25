@@ -3,9 +3,7 @@
 
 - :man_student: Studying Information Security
 - :man_technologist: Studying POO Java and Software Architecture :point_down:
-- :man_scientist: Chemistry technician
 - ☕ Is live ❤️
-- 🏢 AGSI Sistemas
 
 <!--ÍCONES DAS TECNOLOGIAS-->
   <br>
